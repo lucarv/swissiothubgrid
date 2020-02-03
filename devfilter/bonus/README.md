@@ -1,4 +1,4 @@
-# LAB 5.3: BONUS TRACK
+# BONUS TRACK
 
 For those who managed to finish 5.1 in time, here is a challenge.
 The OPC-UA Server you are currently monitoring is a bad one, it does not send you the OPC:URI. That means that your identity mapping will not work, and there is nothing in the payload that will identify the source OPC UA Server.  

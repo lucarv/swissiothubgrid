@@ -1,4 +1,4 @@
-# LAB 5.1: DEVELOP YOUR OWN MODULE
+# DEVELOP YOUR OWN MODULE
 
 ## Create a Private Registry
 

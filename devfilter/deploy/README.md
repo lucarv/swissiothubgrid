@@ -1,4 +1,4 @@
-# LAB 5.2: DEPLOY A FORMATTER MODULE
+# DEPLOY A FORMATTER MODULE
 
 ## Where to find a module image
 
