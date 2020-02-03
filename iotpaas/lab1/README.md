@@ -1,4 +1,4 @@
-# IOT HUB  
+# PART TWO - SET UP
 
 ![](images/banner.png "banner")  
   

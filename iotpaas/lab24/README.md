@@ -1,4 +1,4 @@
-# PART THREE - HOT PATH
+# PART TWO - HOT PATH
 
 In this lab we will implement the hot path pattern in the reference architecture.
 We will use Event Grid to push telemetry that is over a pre-defined threshold to a serverless function, which in turn will send an email to an operator with regards to the event.
