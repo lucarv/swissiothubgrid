@@ -1,4 +1,4 @@
-# PART TWO - SET UP
+# PART ONE - SET UP
 
 ![](images/banner.png "banner")  
   
