@@ -139,3 +139,7 @@ In this section, you use the Set Modules wizard in the Azure portal to create a 
 
 
 ![](images/asa.png )
+
+
+
+[NEXT LAB](../iiot)

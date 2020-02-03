@@ -91,4 +91,3 @@ Push the manifest to the edge device. This module is quite big, so it might take
 ![](images/vcscreen.png )
 
 
-[NEXT LAB](https://github.com/lucarv/connfac-lab/tree/master/LAB%205)
